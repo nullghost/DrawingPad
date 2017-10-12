@@ -1,6 +1,12 @@
 # DrawingPad
 
+<strong>Language</strong>: JAVA.
+<strong>Summary</strong>: <p>A desktop based app in which we can draw paintings using different provided tools such as brush, pencils and different types shapes etc.</p>
+<p>In this app we can also draw or paint on a already existing Image file such as .jpg, .png etc.</p>
+
+
 <p align="center">
   <img src="draw.png" width="350"/>
   <img src="draw.png" width="350"/>
 </p>
+
